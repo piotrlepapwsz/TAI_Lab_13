@@ -1,4 +1,4 @@
-package pl.piotr.demo;
+package pl.piotr.demo.hello;
 
 public class HelloWorldBean {
 

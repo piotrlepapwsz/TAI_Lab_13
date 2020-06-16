@@ -1,4 +1,4 @@
-package pl.piotr.demo;
+package pl.piotr.demo.hello;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
