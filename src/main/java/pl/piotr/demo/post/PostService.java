@@ -1,8 +1,9 @@
-package pl.piotr.demo;
+package pl.piotr.demo.post;
 
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
+import pl.piotr.demo.post.Post;
 
 @Service
 public class PostService {
